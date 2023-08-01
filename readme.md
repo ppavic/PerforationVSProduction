@@ -2,10 +2,9 @@ Simple project that shows relation between opened perforations inside wells and 
 
 # Intro
 ---
-Not all RE software is offernig this kind of charting which is useful when you do so called "History match". This is the reason i have to go on my own.
-Following is few examples of hoe does it work.
+Not all RE software is offernig this kind of charting which is useful when you do so called "History match". This is the reason I did it myself.
 ---
-Here, you can adjust the code if you ar familiar with Python an Jupyter Notebook. And little bit of widgets to be more productive.
+Here, you can adjust the code if you ar familiar with Python an Jupyter Notebook. And a little bit of widgets to be more productive.
 --
 Examples:
 ---
