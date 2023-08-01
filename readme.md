@@ -10,15 +10,15 @@ Here, you can adjust the code if you ar familiar with Python an Jupyter Notebook
 Examples:
 ---
 Inline-style:
-![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 01"
+![alt text]: (https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 01")
 
 Inline-style:
-![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 02"
+![alt text]: (https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 02")
 
 Inline-style:
-![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 03"
+![alt text]: (https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 03")
 ---
-Database is sqlite, which comes with Python. But, it can be any database holding similar data but adjdustment is needed. 
+Database is in sqlite, which comes with Python. But, it can be any database holding similar data but adjdustment is needed. Views, queries etc.
 Feel free to use as non-commercial helper. For any commercial usage, feel free to contact me.
 ---
 If there is an issue how to use it, how to adjust database, dates etc. also contact me via GitHub.
