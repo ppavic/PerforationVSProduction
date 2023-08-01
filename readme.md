@@ -22,3 +22,6 @@ Feel free to use as non-commercial helper. For any commercial usage, feel free t
 If there is an issue how to use it, how to adjust database, dates etc. also contact me via GitHub.
 ---
 Happy RE-ing. :)
+
+### Disclaimer:
+All data present in database is randomly generated an dose not reflect any actual Oil/Gas field performance.
