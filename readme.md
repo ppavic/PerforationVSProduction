@@ -2,28 +2,25 @@ Simple project that shows relation between opened perforations inside wells and 
 
 #Intro
 ---
-Not all RE software is offernig this kind of charting which is usefull whn you do so called "History match". This is the reason i have to go on my own.
-Following is few exaples of hoe does it work.
+Not all RE software is offernig this kind of charting which is useful when you do so called "History match". This is the reason i have to go on my own.
+Following is few examples of hoe does it work.
 ---
-Here, you can adjust the code if you ar familiar with Python an Jupyter Notebook. And little bit of widhets to be more porductive.
+Here, you can adjust the code if you ar familiar with Python an Jupyter Notebook. And little bit of widgets to be more productive.
 --
 Examples:
 ---
-Sample 01:
-![alt text][logo]
-[logo]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png
+Inline-style:
+![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 01"
 
-Sample 02:
-![alt text][logo]
-[logo]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_02.png
+Inline-style:
+![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 02"
 
-Sample 03:
-![alt text][logo]
-[logo]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_03.png
+Inline-style:
+![alt text]: https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 03"
 ---
-Database is sqlite, which comes with Python. But, it can be any database holding similar data. Ajdustment is needed. 
-Feel free to use as non-comertial helper. For any comertial usage, feel free to contact me.
+Database is sqlite, which comes with Python. But, it can be any database holding similar data but adjdustment is needed. 
+Feel free to use as non-commercial helper. For any commercial usage, feel free to contact me.
 ---
-If there is an issue how to use it, howt to adjust database, dates etc also contact me via Github.
+If there is an issue how to use it, how to adjust database, dates etc. also contact me via GitHub.
 ---
 Happy RE-ing. :)
