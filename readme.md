@@ -12,9 +12,9 @@ Examples:
 
 ![alt text](https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 01")
 
-![alt text](https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 02")
+![alt text](https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_02.png "Example 02")
 
-![alt text](https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_01.png "Example 03")
+![alt text](https://github.com/ppavic/PerforationVSProduction/blob/main/pcs/example_03.png "Example 03")
 
 ---
 Database is in sqlite, which comes with Python. But, it can be any database holding similar data but adjdustment is needed. Views, queries etc.
